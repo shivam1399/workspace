@@ -1,0 +1,75 @@
+<modules>
+    <module name="Admin" default="true" path="">
+        <submodule feature="Account Info" name="myaccount" path="accountmanagement/accountlist.html" />
+        <submodule feature="Role Management" name="rolemanagement" path="administration/roleadministration.html" />
+        <submodule feature="User Management" name="usermanagement" path="administration/useradministration.html" />
+        <submodule feature="User Permissions" name="accesspermissions"
+            path="administration/userprojectrolemapping.html" />
+        <submodule feature="Version Control Repositories" name="repositories"
+            path="administration/versioncontrolrepositories.html" />
+        <submodule feature="Salesforce Org Management" name="orgmanagement" path="administration/orgmanagement.html" />
+        <submodule feature="Branching Baseline" name="retrievecommit" path="administration/branchingbaseline.html" />
+        <submodule feature="Credentials Manager" name="credentialsmanager"
+            path="administration/credentialsmanager.html" />
+        <submodule feature="Search and Substitute" name="searchandsubstitute"
+            path="administration/searchandsubstitute.html" />
+    </module>
+    <module modulename="Dashboard" name="Dashboard" feature="Dashboard" default="false" path="">
+        <submodule submodulename="Dashboard" feature="Dashboard" name="dashboard"
+            path="dashboard/dashboardhomepage.html" />
+        <submodule submodulename="Pipeline" feature="Pipeline" name="pipeline" path="dashboard/pipelinehomepage.html" />
+    </module>
+    <module name="VersionControl" default="false" path="">
+        <submodule feature="Commit History" name="commithistory" path="versioncontrol/commithistory.html" />
+        <submodule feature="New EZ-Commit" name="newcommit" path="versioncontrol/newcommit.html" />
+        <submodule feature="Commit Validation History" name="gatedvalidations"
+            path="versioncontrol/prevalidationcommit.html" />
+        <submodule feature="Merge History" name="mergehistory" path="merge/mergehistory.html" />
+        <submodule feature="New Merge" name="newmerge" path="versioncontrol/newezmerge.html" />
+        <submodule feature="Manage Release Labels" name="releaselabels" path="versioncontrol/releasehistory.html" />
+    </module>
+    <module name="CI" default="false" path="">
+        <submodule feature="CI Job" name="cijob" path="cijobs/cijob.html" />
+        <submodule feature="CI Job List" name="cijoblist" path="cijobs/cijoblist.html" />
+        <submodule feature="CI Job Results" name="cijobresults" path="cijobs/cijobresults.html" />
+    </module>
+    <module name="Deployment" default="false" path="">
+        <submodule feature="History" name="deploymenthistory" path="deployment/deploymenthistory.html" />
+        <submodule feature="New Deployment" name="newdeployment" path="deployment/deployment.html" />
+        <submodule feature="Profile Manager" name="profilepermissionsets" path="deployment/profilecomparator.html" />
+        <submodule feature="Org Synchronization" name="orgsynchronization" path="deployment/orgsynchronization.html" />
+    </module>
+    <module name="Dataloader" default="false" path="">
+        <submodule feature="Single Dataloader" name="singledataloader" path="dataloader/dataloader.html" />
+        <submodule feature="Dataloader-Pro" name="dataloaderpro" path="dataloader/dataloaderpro.html" />
+        <submodule feature="Dataloader Configuration" name="dataloaderconfiguration"
+            path="dataloader/dataloaderconfig.html" />
+        <submodule feature="Test Environment Setup" name="testenvironmentsetup"
+            path="dataloader/testEnvironmentSetup.html" />
+    </module>
+    <module name="TAF" feature="TAF" default="false" path="taf/tafmain.html" />
+    <module name="SFDX" default="false" path="">
+        <submodule feature="SFDX HUB Management" name="dxhubmanagement" path="sfdx/dxhubmanagement.html" />
+        <submodule feature="User Story Management" name="userstorymanagement" path="sfdx/userstorymanagement.html" />
+        <submodule feature="AutoRabit ALM Management" name="aralmmanagement" path="alm/aralmmanagement.html" />
+        <submodule feature="Template Management" name="dxtemplatemanagement" path="sfdx/dxtemplatemanagement.html" />
+    </module>
+    <module name="Search" feature="Audit" default="true" path="reports/audit.html" />
+    <module name="Environment Provisioning" feature="Environment Provisioning" default="false"
+        path="environmentprovisioning/environmentprovisioning.html" />
+    <module name="Reports" feature="Reports" default="true" path="">
+        <submodule feature="Deployment Reports" name="deploymentreport" path="reports/customreports.html" />
+        <submodule feature="Weekly Reports" name="weeklyreport" path="reports/clientusage/report.html" />
+        <submodule feature="Code coverage Reports" name="apextestreport" path="reports/apextestreport.html" />
+    </module>
+    <module modulename="FeatureMigration" name="FeatureMigration" feature="Feature Migration" default="false" path="">
+        <submodule feature="Feature Management" name="featuremanagement"
+            path="featuremigration/featuremanagement/featuremanagement.html" />
+        <submodule feature="Feature Deployment" name="featuredeployment"
+            path="featuremigration/featuredeployment/featuredeployment.html" />
+        <submodule feature="Feature Deployment History" name="featuredeploymenthistory"
+            path="featuremigration/featuredeployment/featuredeploymenthistory.html" />
+        <submodule submodulename="FeatureCommitHistory" name="featurecommithistory" feature="Feature Commit History"
+            path="featuremigration/featurecommit/featurecommithistory.html" />
+    </module>
+</modules>
