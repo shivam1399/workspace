@@ -4,7 +4,7 @@
     <applicationSubtype>ISE_IDV</applicationSubtype>
     <applicationType>IndustryServiceExcellence</applicationType>
     <description>ISE IDV Audit Trail Log Def</description>
-    <internal>true</internal>
+    <internal>false</internal>
     <masterLabel>ISE_IDVAudit1</masterLabel>
     <processType>IDV_Audit1</processType>
 </ExplainabilityActionDefinition>

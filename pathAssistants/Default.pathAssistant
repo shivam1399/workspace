@@ -22,14 +22,14 @@
         <picklistValueName>Qualified</picklistValueName>
     </pathAssistantSteps>
     <pathAssistantSteps>
-        <fieldNames>LeadSource</fieldNames>
+        <fieldNames>LeadSource1</fieldNames>
         <info>&lt;p&gt;&lt;b style=&quot;font-family: Arial; font-size: 10pt;&quot;&gt;Keep track of the info related to your unqualified leads.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-family: Arial; font-size: 10pt;&quot;&gt;Your lead may be unqualified if they are not interested in your products or they have left the company associated with the prospect.&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Document lessons learned for future reference&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Save outreach details and contact information&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</info>
         <picklistValueName>Unqualified</picklistValueName>
     </pathAssistantSteps>
     <pathAssistantSteps>
-        <fieldNames>Title</fieldNames>
-        <fieldNames>Email</fieldNames>
-        <fieldNames>Phone</fieldNames>
+        <fieldNames>Title1</fieldNames>
+        <fieldNames>Email1</fieldNames>
+        <fieldNames>Phone1</fieldNames>
         <info>&lt;p&gt;&lt;b style=&quot;font-family: Arial; font-size: 10pt;&quot;&gt;Qualify promising leads.&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Identify a contact for the lead&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Save their contact information to the lead record&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Make a plan for your outreach (For example, How many times will you reach out? What&amp;#39;s your pitch?)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</info>
         <picklistValueName>Working</picklistValueName>
     </pathAssistantSteps>

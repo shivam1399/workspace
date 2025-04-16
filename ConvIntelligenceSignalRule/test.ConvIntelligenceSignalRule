@@ -10,9 +10,9 @@
     <ruleName>test</ruleName>
     <service>KeywordMatch</service>
     <subrule>
-        <operandValue>channel1</operandValue>
-        <operator>Equals1</operator>
-        <order>0</order>
-        <type>Keyword1</type>
+        <operandValue>channel</operandValue>
+        <operator>Equals</operator>
+        <order>1</order>
+        <type>Keyword</type>
     </subrule>
 </ConvIntelligenceSignalRule>

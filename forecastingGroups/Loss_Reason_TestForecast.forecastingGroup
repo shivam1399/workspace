@@ -9,15 +9,15 @@
         <displayPosition>3</displayPosition>
     </forecastingGroupItems>
     <forecastingGroupItems>
-        <displayPosition>41</displayPosition>
-        <sourceApiValue>Price1</sourceApiValue>
+        <displayPosition>4</displayPosition>
+        <sourceApiValue>Price</sourceApiValue>
     </forecastingGroupItems>
     <forecastingGroupItems>
-        <displayPosition>51</displayPosition>
+        <displayPosition>5</displayPosition>
         <sourceApiValue>Other</sourceApiValue>
     </forecastingGroupItems>
     <forecastingGroupItems>
-        <displayPosition>1</displayPosition>
+        <displayPosition>6</displayPosition>
         <sourceApiValue>Lost to Competitor1</sourceApiValue>
     </forecastingGroupItems>
     <forecastingGroupItems>
