@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>63.0</version>
+    <types>
+        <members>ISE_IDV</members>
+        <members>TestASD</members>
+        <name>ApplicationSubtypeDefinition</name>
+    </types>
+    <types>
+        <members>IDV_Audit</members>
+        <members>TestBPT</members>
+        <name>BusinessProcessTypeDefinition</name>
+    </types>
+    <types>
+        <members>test</members>
+        <name>ConvIntelligenceSignalRule</name>
+    </types>
+    <types>
+        <members>ISE_IDVAudit</members>
+        <members>TestEAD</members>
+        <name>ExplainabilityActionDefinition</name>
+    </types>
+    <types>
+        <members>Test_ES_V1</members>
+        <name>ExpressionSetDefinitionVersion</name>
+    </types>
+    <types>
+        <members>Loss_Reason_TestForecast</members>
+        <name>ForecastingGroup</name>
+    </types>
+    <types>
+        <members>Default</members>
+        <members>Default_Opportunity</members>
+        <name>PathAssistant</name>
+    </types>
+</Package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <developerName>Loss_Reason_TestForecast</developerName>
+    <forecastingGroupItems>
+        <displayPosition>2</displayPosition>
+        <sourceApiValue>No Budget / Lost Funding</sourceApiValue>
+    </forecastingGroupItems>
+    <forecastingGroupItems>
+        <displayPosition>3</displayPosition>
+    </forecastingGroupItems>
+    <forecastingGroupItems>
+        <displayPosition>41</displayPosition>
+        <sourceApiValue>Price1</sourceApiValue>
+    </forecastingGroupItems>
+    <forecastingGroupItems>
+        <displayPosition>51</displayPosition>
+        <sourceApiValue>Other</sourceApiValue>
+    </forecastingGroupItems>
+    <forecastingGroupItems>
+        <displayPosition>1</displayPosition>
+        <sourceApiValue>Lost to Competitor1</sourceApiValue>
+    </forecastingGroupItems>
+    <forecastingGroupItems>
+        <displayPosition>1</displayPosition>
+        <sourceApiValue>No Decision / Non-Responsive</sourceApiValue>
+    </forecastingGroupItems>
+    <groupField>Loss_Reason__c</groupField>
+    <masterLabel>Loss Reason Test_Forecast</masterLabel>
+    <sourceObject>Opportunity</sourceObject>
+</ForecastingGroup>
