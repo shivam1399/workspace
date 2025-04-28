@@ -2,9 +2,9 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Phone11111w</fullName>
+        <fullName>Phone11111wne</fullName>
         <default>false</default>
-        <label>Phone111w</label>
+        <label>Phone111wje</label>
     </standardValue>
     <standardValue>
         <fullName>Email1d</fullName>
