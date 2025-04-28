@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CallCenterRoutingMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <callCenter>Service Cloud Voice</callCenter>
+    <developerName>User_005Ho00000KfKNIIA3_04vHo000000wnnq</developerName>
+    <externalId>arn:aws:connect:us-west-2:100932270882:instance/17f40640-a8ba-4e04-a591-3ead9a4701ef/agent/253937f6-202a-4362-968d-fa692062e393</externalId>
+    <masterLabel>005Ho00000KfKNIIA3</masterLabel>
+    <referenceRecord>devmichalfurmanek2@gmail.com.sdoeinstein1</referenceRecord>
+</CallCenterRoutingMap>
