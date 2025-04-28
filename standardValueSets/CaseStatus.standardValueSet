@@ -2,33 +2,27 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>New</fullName>
+        <fullName>new1111</fullName>
         <default>true</default>
-        <label>NewEdited</label>
+        <label>new1111</label>
         <closed>false</closed>
     </standardValue>
     <standardValue>
-        <fullName>Workingedit12</fullName>
+        <fullName>Work112345</fullName>
         <default>false</default>
-        <label>Work</label>
+        <label>Work112345</label>
         <closed>false</closed>
     </standardValue>
     <standardValue>
-        <fullName>Escalatededit1</fullName>
+        <fullName>Closedwdwdfde</fullName>
         <default>false</default>
-        <label>Escalatededit1</label>
-        <closed>false</closed>
-    </standardValue>
-    <standardValue>
-        <fullName>Closed</fullName>
-        <default>false</default>
-        <label>Closed</label>
+        <label>Closeddsdfww</label>
         <closed>true</closed>
     </standardValue>
     <standardValue>
-        <fullName>Edited</fullName>
+        <fullName>editdonee</fullName>
         <default>false</default>
-        <label>Edited</label>
+        <label>editdonee</label>
         <closed>false</closed>
     </standardValue>
     <standardValue>
@@ -44,9 +38,9 @@
         <closed>false</closed>
     </standardValue>
     <standardValue>
-        <fullName>supporttest</fullName>
+        <fullName>supporttestdddrr</fullName>
         <default>false</default>
-        <label>supporttest</label>
+        <label>supporttestder</label>
         <closed>false</closed>
     </standardValue>
     <standardValue>
